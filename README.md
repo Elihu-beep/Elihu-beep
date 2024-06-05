@@ -8,8 +8,6 @@ I'm a Finnish ICT-engineering student.
 * React and React Native
 * Node.js
 * Python
-* C#
-* Kotlin
 
 
 <!--
