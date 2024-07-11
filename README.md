@@ -1,9 +1,9 @@
 ## Hi, I'm Elias.
 
 ``` shell
-- I'm a fourth year ICT-engineering student 🖥️
+- Im a fourth year ICT-engineering student 🖥️
 - I work in mobile application development using mostly React Native 📱⚛️
-- Currently I'm learning C 
+- Currently Im learning C 
 ```
 
 <!--
