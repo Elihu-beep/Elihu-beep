@@ -2,8 +2,8 @@
 
 ``` shell
 - I'm a fourth year ICT-engineering student 🖥️
-* I work in mobile application development using mostly React Native 📱⚛️
-* Currently I'm learning C 
+- I work in mobile application development using mostly React Native 📱⚛️
+- Currently I'm learning C 
 ```
 
 <!--
