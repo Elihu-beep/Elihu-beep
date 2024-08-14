@@ -3,7 +3,6 @@
 ``` shell
 - Im a fourth year ICT-engineering student 🖥️
 - I work in mobile application development using mostly React Native 📱⚛️
-- Currently Im learning C 
 ```
 
 <!--
